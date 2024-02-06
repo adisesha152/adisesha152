@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking for internships on Full Stack Development
-- 📫 Reach Me : Phone : +91 7780322684
+- 📫 Reach Me :
+-               Phone : +91 7780322684
 -               Email : adiseshaogirala@gmail.com
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
